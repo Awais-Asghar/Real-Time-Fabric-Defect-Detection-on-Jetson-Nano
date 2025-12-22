@@ -8,10 +8,7 @@
 
 ## Project Overview
 
-This project implements a **real-time fabric defect detection system** using **purely classical computer vision techniques**, deployed and optimized on the **Jetson Nano**.  
-The system avoids deep learning entirely and relies on **multi-method classical analysis** combined with **IoU-based bounding box fusion** for robust and interpretable defect localization.
-
-The solution is designed for **low-power edge devices** and is suitable for **industrial textile inspection** where cost, explainability, and real-time performance are critical.
+This project implements a **real-time fabric defect detection system** using **purely classical computer vision techniques**, deployed and optimized on the **Jetson Nano**. The system avoids deep learning entirely and relies on **multi-method classical analysis** combined with **IoU-based bounding box fusion** for robust and interpretable defect localization. The solution is designed for **low-power edge devices** and is suitable for **industrial textile inspection** where cost, explainability, and real-time performance are critical.
 
 ---
 
