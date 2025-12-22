@@ -58,9 +58,6 @@ The system uses **multiple independent classical detectors**, each capturing dif
 
 ## System Pipeline
 
-<img width="1873" height="1010" alt="Image" src="https://github.com/user-attachments/assets/278640ae-0f18-4993-a9b5-cfcdc05c4da7" />
-
-
 ```
 
 Camera Frame
@@ -78,6 +75,7 @@ Post-Processing Filters
 Final Defect Localization
 
 ```
+<img width="1873" height="1010" alt="Image" src="https://github.com/user-attachments/assets/278640ae-0f18-4993-a9b5-cfcdc05c4da7" />
 
 <img width="1873" height="1006" alt="Image" src="https://github.com/user-attachments/assets/1b0af2a4-0858-49b6-9661-6c66c903cc74" />
 
@@ -135,6 +133,10 @@ This makes the system suitable for **on-device industrial inspection**.
 
 ---
 
+## Demo Video 
+
+https://github.com/user-attachments/assets/c4d4eb7a-723e-45d2-abae-a23ca4ae641c
+
 ## License
 
 This project is licensed under the **MIT License**.
@@ -146,8 +148,4 @@ This project is licensed under the **MIT License**.
 **Awais Asghar**
 Electrical Engineering | Computer Vision | Edge AI
 
----
-
-⭐ If you find this project useful, consider giving it a star!
-
-```
+⭐ If you find this project useful, consider giving it a star! ⭐
