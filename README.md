@@ -133,7 +133,11 @@ This makes the system suitable for **on-device industrial inspection**.
 
 ---
 
-## Demo Video 
+## Demo 
+
+![Project Image](https://github.com/user-attachments/assets/4ebbb4b3-4e26-4743-aa35-f8bca5364bca)
+
+https://github.com/user-attachments/assets/fac8b5cb-90fb-4048-a1f4-c30167beda15
 
 https://github.com/user-attachments/assets/c4d4eb7a-723e-45d2-abae-a23ca4ae641c
 
